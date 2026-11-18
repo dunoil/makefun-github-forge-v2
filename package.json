@@ -1,0 +1,1 @@
+{"description":"Forge v2: a GitHub-compatible git forge in dependency-free Node, rebuilt around cached parses, cached wire replies and memoised serialisation for speed","engines":{"node":">=22.18"},"license":"MIT","name":"github-forge-v2-entry","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"0.0.0"}
